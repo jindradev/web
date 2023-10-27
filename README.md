@@ -1,2 +1,2 @@
 # web
-Personal web
+Personal web, design in progress.
